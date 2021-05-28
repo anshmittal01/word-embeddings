@@ -1,0 +1,255 @@
+Min-Max of every embiddings
+
+
+Glove 
+
+{
+    "sentence1": "to make a great mental or physical effort",
+    "sentence2": "make a great effort at a mental or physical task.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        97.98,
+        109.2081069946289
+      ],
+      "glove": [
+        98.61,
+        0.6778240203857422
+      ],
+      "word2vec": [
+        94.74,
+        0.36978721618652344
+      ],
+      "fasttext": [
+        97.37,
+        0.3821849822998047
+      ]
+    }
+  },
+  {
+    "sentence1": "recording tracks of music made on some medium",
+    "sentence2": "a trench resembling a furrow that was made by erosion or excavation.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        44.16,
+        127.91299819946289
+      ],
+      "glove": [
+        33.94,
+        17.858028411865234
+      ],
+      "word2vec": [
+        18.87,
+        2.7539730072021484
+      ],
+      "fasttext": [
+        68.58,
+        1.5549659729003906
+      ]
+    }
+  },
+
+
+
+
+
+
+  bert
+  {
+    "sentence1": "A young boy laying on a sofa with a dog.",
+    "sentence2": "A small boy laying on a sofa with a dog.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        99.4,
+        114.76516723632812
+      ],
+      "glove": [
+        96.96,
+        0.6227493286132812
+      ],
+      "word2vec": [
+        94.41,
+        0.8509159088134766
+      ],
+      "fasttext": [
+        97.56,
+        0.8230209350585938
+      ]
+    }
+  },
+
+  {
+    "sentence1": "A group of people sitting on a small sofa next to a kitchen.",
+    "sentence2": "A group of people standing near a small child sitting on a horse.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        25.91,
+        130.4469108581543
+      ],
+      "glove": [
+        94.15,
+        0.6678104400634766
+      ],
+      "word2vec": [
+        68.65,
+        0.640869140625
+      ],
+      "fasttext": [
+        88.74,
+        0.6856918334960938
+      ]
+    }
+  },
+
+
+
+
+
+
+  word2vec
+{
+    "sentence1": "Pakistan condemns US drone strike in Shawal Area",
+    "sentence2": "Pakistan condemns US drone strike in Miranshah",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        98.8,
+        144.1631317138672
+      ],
+      "glove": [
+        95.07,
+        23.780107498168945
+      ],
+      "word2vec": [
+        97.67,
+        66.19024276733398
+      ],
+      "fasttext": [
+        97.52,
+        23.357868194580078
+      ]
+    }
+  },
+
+  {
+    "sentence1": "recording tracks of music made on some medium",
+    "sentence2": "a trench resembling a furrow that was made by erosion or excavation.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        44.16,
+        127.91299819946289
+      ],
+      "glove": [
+        33.94,
+        17.858028411865234
+      ],
+      "word2vec": [
+        18.87,
+        2.7539730072021484
+      ],
+      "fasttext": [
+        68.58,
+        1.5549659729003906
+      ]
+    }
+  },
+
+
+
+
+
+
+fasttext
+
+{
+    "sentence1": "the russian government strongly opposes u.s. plans to install antimissile defenses in europe and dismisses u.s. assertions that the interceptors are needed to defend against threats from iran. ",
+    "sentence2": "after talks at nato headquarters baluyevsky repeated russia's opposition to u.s. plans to install antimissile defenses in europe and dismissed u.s. assertions that the interceptors were needed to defend against potential threats from iran.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        89.44,
+        335.68835258483887
+      ],
+      "glove": [
+        97.5,
+        75.6838321685791
+      ],
+      "word2vec": [
+        94.26,
+        54.96501922607422
+      ],
+      "fasttext": [
+        98.27,
+        20.541906356811523
+      ]
+    }
+  },
+
+{
+    "sentence1": "the deal has been in process for several years. ",
+    "sentence2": "the iaea has been investigating iran's nuclear activities for 4 years.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        38.95,
+        131.71625137329102
+      ],
+      "glove": [
+        73.63,
+        3.7539005279541016
+      ],
+      "word2vec": [
+        26.85,
+        18.738985061645508
+      ],
+      "fasttext": [
+        43.92,
+        10.507822036743164
+      ]
+    }
+  },
+
+
+
+  conclusions and findings - 
+
+  1. Bert calculation time is approximately x10 as compared to others.
+  2. fasttext - generally results in the high similarity and range is too small.
+  3. ranges - 
+  				BERT 		- [25.9,99.4]
+  				Glove 		- [33.9,98.6]
+  				word2vec 	- [18.9,97.7]
+  				fasttext	- [44,98.3]
+  4. for negation sentence pairs - Bert gives the better results as compared to others. BERT > Glove=word2vec=fasttext
+  5. for active passive sentence pairs - fasttext>rest
+  6. for para-phrased sentence pairs - glove=word2vec > BERT(due to time constraints) > fasttext
+  7. for direct sentence pairs - All are good
+  8. 

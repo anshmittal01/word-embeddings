@@ -1,0 +1,3304 @@
+[
+  {
+    "sentence1": "As he waited for the shower to warm, he noticed that he could hear water change temperature.",
+    "sentence2": "As he trusted that the shower will warm, he deduced that he could hear water change temperature.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        92.31,
+        247.8470802307129
+      ],
+      "glove": [
+        97.28,
+        32.29093551635742
+      ],
+      "word2vec": [
+        90.51,
+        4.35185432434082
+      ],
+      "fasttext": [
+        97.03,
+        1.2958049774169922
+      ]
+    }
+  },
+  {
+    "sentence1": "She always speaks to him in a loud voice.",
+    "sentence2": "She generally addresses him in a noisy voice.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        66.71,
+        120.83625793457031
+      ],
+      "glove": [
+        81.89,
+        1.4030933380126953
+      ],
+      "word2vec": [
+        70.61,
+        0.6198883056640625
+      ],
+      "fasttext": [
+        88.35,
+        0.5292892456054688
+      ]
+    }
+  },
+  {
+    "sentence1": "There was no ice cream in the freezer, nor did they have money to go to the store.",
+    "sentence2": "There was no frozen yogurt in the cooler, nor did they have cash to go to the store.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        83.49,
+        152.36711502075195
+      ],
+      "glove": [
+        93.03,
+        0.9870529174804688
+      ],
+      "word2vec": [
+        79.28,
+        1.0671615600585938
+      ],
+      "fasttext": [
+        90.45,
+        1.0411739349365234
+      ]
+    }
+  },
+  {
+    "sentence1": "He had concluded that pigs must be able to fly in Hog Heaven.",
+    "sentence2": "He had reasoned that pigs should have the option to fly in Hog Heaven.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        91.99,
+        127.21586227416992
+      ],
+      "glove": [
+        89.86,
+        6.068944931030273
+      ],
+      "word2vec": [
+        85.97,
+        1.4269351959228516
+      ],
+      "fasttext": [
+        93.87,
+        1.3370513916015625
+      ]
+    }
+  },
+  {
+    "sentence1": "I will see if the book has arrived.",
+    "sentence2": "I will check whether the book has shown up.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        78.86,
+        122.12800979614258
+      ],
+      "glove": [
+        90.48,
+        0.6082057952880859
+      ],
+      "word2vec": [
+        62.22,
+        0.3139972686767578
+      ],
+      "fasttext": [
+        81.89,
+        0.2732276916503906
+      ]
+    }
+  },
+  {
+    "sentence1": "She works two jobs to make ends meet; at least, that was her reason for not having time to join us.",
+    "sentence2": "She maintains two sources of income to get by; in any event, that was her justification not having the opportunity to go along with us.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        60.0,
+        176.62382125854492
+      ],
+      "glove": [
+        93.6,
+        3.2389163970947266
+      ],
+      "word2vec": [
+        71.26,
+        0.6546974182128906
+      ],
+      "fasttext": [
+        92.91,
+        0.5776882171630859
+      ]
+    }
+  },
+  {
+    "sentence1": "The complicated school homework left the parents trying to help their kids quite confused.",
+    "sentence2": "The confounded schoolwork left the guardians attempting to help their children very befuddled.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        84.35,
+        162.66584396362305
+      ],
+      "glove": [
+        74.24,
+        12.998104095458984
+      ],
+      "word2vec": [
+        78.25,
+        2.2759437561035156
+      ],
+      "fasttext": [
+        93.96,
+        2.431154251098633
+      ]
+    }
+  },
+  {
+    "sentence1": "Nobody questions who built the pyramids in Mexico.",
+    "sentence2": "No one inquiries who constructed the pyramids in Mexico.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        75.86,
+        106.89496994018555
+      ],
+      "glove": [
+        86.0,
+        3.0410289764404297
+      ],
+      "word2vec": [
+        86.36,
+        6.722927093505859
+      ],
+      "fasttext": [
+        90.2,
+        2.360105514526367
+      ]
+    }
+  },
+  {
+    "sentence1": "It's not often you find a soggy banana on the street.",
+    "sentence2": "Rarely do you track down a wet banana in the city.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        85.64,
+        128.99088859558105
+      ],
+      "glove": [
+        90.58,
+        1.4603137969970703
+      ],
+      "word2vec": [
+        73.0,
+        1.0721683502197266
+      ],
+      "fasttext": [
+        73.16,
+        1.15203857421875
+      ]
+    }
+  },
+  {
+    "sentence1": "The near-death experience brought new ideas to light.",
+    "sentence2": "The brush with death uncovered novel thoughts.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        45.81,
+        126.10507011413574
+      ],
+      "glove": [
+        81.9,
+        1.7080307006835938
+      ],
+      "word2vec": [
+        54.87,
+        0.6270408630371094
+      ],
+      "fasttext": [
+        84.02,
+        0.5071163177490234
+      ]
+    }
+  },
+  {
+    "sentence1": "The truth is that you pay for your lifestyle in hours.",
+    "sentence2": "Actually you pay for your way of life in hours.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        84.65,
+        115.23723602294922
+      ],
+      "glove": [
+        93.24,
+        0.5040168762207031
+      ],
+      "word2vec": [
+        77.52,
+        0.3693103790283203
+      ],
+      "fasttext": [
+        91.87,
+        0.35500526428222656
+      ]
+    }
+  },
+  {
+    "sentence1": "The newly planted trees were held up by wooden frames in hopes they could survive the next storm.",
+    "sentence2": "The recently planted trees were held up by wooden edges in trusts they could endure the following tempest.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        79.82,
+        194.42415237426758
+      ],
+      "glove": [
+        91.55,
+        6.118059158325195
+      ],
+      "word2vec": [
+        80.46,
+        12.022018432617188
+      ],
+      "fasttext": [
+        94.51,
+        1.956939697265625
+      ]
+    }
+  },
+  {
+    "sentence1": "The stranger officiates the meal.",
+    "sentence2": "The outsider administers the feast.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        75.36,
+        113.77787590026855
+      ],
+      "glove": [
+        38.01,
+        34.10792350769043
+      ],
+      "word2vec": [
+        47.41,
+        5.726099014282227
+      ],
+      "fasttext": [
+        71.99,
+        3.5200119018554688
+      ]
+    }
+  },
+  {
+    "sentence1": "Everyone was busy, so I went to the movie alone.",
+    "sentence2": "Everybody was occupied, so I went out to see the film alone.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        89.93,
+        107.57184028625488
+      ],
+      "glove": [
+        94.84,
+        0.7600784301757812
+      ],
+      "word2vec": [
+        81.52,
+        2.3148059844970703
+      ],
+      "fasttext": [
+        91.99,
+        0.38886070251464844
+      ]
+    }
+  },
+  {
+    "sentence1": "She insisted that cleaning out your closet was the key to good driving.",
+    "sentence2": "She demanded that taking care of your personal business was the way to great driving.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        72.74,
+        128.67188453674316
+      ],
+      "glove": [
+        89.92,
+        2.2668838500976562
+      ],
+      "word2vec": [
+        65.26,
+        0.5431175231933594
+      ],
+      "fasttext": [
+        86.44,
+        0.6129741668701172
+      ]
+    }
+  },
+  {
+    "sentence1": "Don't put peanut butter on the dog's nose.",
+    "sentence2": "Try not to put peanut butter on the canine's nose.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        52.99,
+        137.800931930542
+      ],
+      "glove": [
+        94.68,
+        1.9431114196777344
+      ],
+      "word2vec": [
+        87.24,
+        2.7251243591308594
+      ],
+      "fasttext": [
+        86.51,
+        1.2731552124023438
+      ]
+    }
+  },
+  {
+    "sentence1": "Most shark attacks occur about 10 feet from the beach since that's where the people are.",
+    "sentence2": "Most shark assaults happen around 10 feet from the sea shore since that is the place where individuals are.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        91.61,
+        159.23190116882324
+      ],
+      "glove": [
+        96.29,
+        2.8710365295410156
+      ],
+      "word2vec": [
+        86.82,
+        0.9341239929199219
+      ],
+      "fasttext": [
+        89.16,
+        0.8339881896972656
+      ]
+    }
+  },
+  {
+    "sentence1": "Mary realized if her calculator had a history, it would be more embarrassing than her computer browser history.",
+    "sentence2": "Mary acknowledged whether her adding machine stores old records, it would be more humiliating than her PC program history.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        83.33,
+        180.93180656433105
+      ],
+      "glove": [
+        91.22,
+        3.4592151641845703
+      ],
+      "word2vec": [
+        69.4,
+        9.114980697631836
+      ],
+      "fasttext": [
+        90.02,
+        2.656221389770508
+      ]
+    }
+  },
+  {
+    "sentence1": "what's your favorite flavor of random grammar?",
+    "sentence2": "what's your number one kind of irregular language structure?",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        47.58,
+        127.99477577209473
+      ],
+      "glove": [
+        91.43,
+        1.5940666198730469
+      ],
+      "word2vec": [
+        55.24,
+        0.9238719940185547
+      ],
+      "fasttext": [
+        88.07,
+        0.5681514739990234
+      ]
+    }
+  },
+  {
+    "sentence1": "Before he moved to the inner city, he had always believed that security complexes were psychological.",
+    "sentence2": "Before he moved to downtown, he had consistently accepted that security edifices were mental.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        76.22,
+        147.06802368164062
+      ],
+      "glove": [
+        87.33,
+        17.2269344329834
+      ],
+      "word2vec": [
+        73.39,
+        2.3119449615478516
+      ],
+      "fasttext": [
+        91.06,
+        1.4069080352783203
+      ]
+    }
+  },
+  {
+    "sentence1": "The murder hornet was disappointed by the preconceived ideas people had of him.",
+    "sentence2": "The homicide hornet was frustrated by the assumptions individuals made of him.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        85.74,
+        158.84804725646973
+      ],
+      "glove": [
+        86.24,
+        6.457090377807617
+      ],
+      "word2vec": [
+        70.27,
+        5.774259567260742
+      ],
+      "fasttext": [
+        90.72,
+        3.0488967895507812
+      ]
+    }
+  },
+  {
+    "sentence1": "Stop waiting for exceptional things to just happen.",
+    "sentence2": "Quit hanging tight for remarkable things to simply occur.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        86.01,
+        126.42478942871094
+      ],
+      "glove": [
+        90.41,
+        1.6138553619384766
+      ],
+      "word2vec": [
+        68.94,
+        0.5052089691162109
+      ],
+      "fasttext": [
+        86.89,
+        0.6010532379150391
+      ]
+    }
+  },
+  {
+    "sentence1": "Each person has a different perception of who you are.",
+    "sentence2": "Every individual has an unique impression of what your identity is.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        38.56,
+        106.95600509643555
+      ],
+      "glove": [
+        88.42,
+        1.0802745819091797
+      ],
+      "word2vec": [
+        64.52,
+        1.352071762084961
+      ],
+      "fasttext": [
+        84.1,
+        0.3943443298339844
+      ]
+    }
+  },
+  {
+    "sentence1": "He ran out of money, so he had to stop playing poker.",
+    "sentence2": "he needed to quit playing poker as he ran out of cash.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        91.72,
+        107.19799995422363
+      ],
+      "glove": [
+        96.45,
+        0.6871223449707031
+      ],
+      "word2vec": [
+        88.71,
+        0.4391670227050781
+      ],
+      "fasttext": [
+        95.2,
+        0.6649494171142578
+      ]
+    }
+  },
+  {
+    "sentence1": "He found the chocolate quite tasty.",
+    "sentence2": "He discovered the chocolate very delectable.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        87.01,
+        112.63799667358398
+      ],
+      "glove": [
+        85.69,
+        2.833127975463867
+      ],
+      "word2vec": [
+        84.11,
+        1.1091232299804688
+      ],
+      "fasttext": [
+        84.4,
+        1.2090206146240234
+      ]
+    }
+  },
+  {
+    "sentence1": "There's a reason that roses have thorns.",
+    "sentence2": "There's an explanation that roses have thistles.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        88.37,
+        107.92875289916992
+      ],
+      "glove": [
+        89.76,
+        9.749174118041992
+      ],
+      "word2vec": [
+        81.92,
+        3.222942352294922
+      ],
+      "fasttext": [
+        95.67,
+        1.950979232788086
+      ]
+    }
+  },
+  {
+    "sentence1": "He put heat on the wound to see what would grow.",
+    "sentence2": "He put heat on the injury to perceive what might develop.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        76.04,
+        107.12313652038574
+      ],
+      "glove": [
+        90.93,
+        1.7919540405273438
+      ],
+      "word2vec": [
+        73.55,
+        0.5638599395751953
+      ],
+      "fasttext": [
+        92.71,
+        0.49614906311035156
+      ]
+    }
+  },
+  {
+    "sentence1": "She had convinced her kids that any mushroom found on the ground would kill them if they touched it.",
+    "sentence2": "She had persuaded her children that any mushroom found on the ground would slaughter them in the event that they contacted it.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        88.8,
+        141.01099967956543
+      ],
+      "glove": [
+        93.73,
+        3.3271312713623047
+      ],
+      "word2vec": [
+        77.55,
+        2.357959747314453
+      ],
+      "fasttext": [
+        96.03,
+        1.0590553283691406
+      ]
+    }
+  },
+  {
+    "sentence1": "Rock music approaches at high velocity.",
+    "sentence2": "Awesome music approaches at high speed.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        78.91,
+        113.51394653320312
+      ],
+      "glove": [
+        93.83,
+        2.2411346435546875
+      ],
+      "word2vec": [
+        74.45,
+        1.7037391662597656
+      ],
+      "fasttext": [
+        90.41,
+        0.4858970642089844
+      ]
+    }
+  },
+  {
+    "sentence1": "They say that dogs are man's best friend, but this cat was setting out to sabotage that theory.",
+    "sentence2": "They say that canines are man's dearest companion, yet this feline was embarking to attack that hypothesis.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        67.01,
+        192.7788257598877
+      ],
+      "glove": [
+        84.62,
+        10.265111923217773
+      ],
+      "word2vec": [
+        76.11,
+        4.274845123291016
+      ],
+      "fasttext": [
+        91.8,
+        2.504110336303711
+      ]
+    }
+  },
+  {
+    "sentence1": "Jenny made the announcement that her baby was an alien.",
+    "sentence2": "Jenny made the declaration that her child was an outsider.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        59.8,
+        112.94817924499512
+      ],
+      "glove": [
+        84.49,
+        2.1088123321533203
+      ],
+      "word2vec": [
+        67.18,
+        19.68693733215332
+      ],
+      "fasttext": [
+        90.24,
+        3.761768341064453
+      ]
+    }
+  },
+  {
+    "sentence1": "He had decided to accept his fate of accepting his fate.",
+    "sentence2": "He had determined to acknowledge his destiny of tolerating his destiny.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        68.25,
+        126.50704383850098
+      ],
+      "glove": [
+        69.77,
+        3.470897674560547
+      ],
+      "word2vec": [
+        54.99,
+        1.3298988342285156
+      ],
+      "fasttext": [
+        82.82,
+        1.1851787567138672
+      ]
+    }
+  },
+  {
+    "sentence1": "The sunblock was handed to the girl before practice, but the burned skin was proof she did not apply it.",
+    "sentence2": "The sunblock was given to the young lady before training, yet the consumed skin was verification she didn't have used it.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        61.92,
+        173.38895797729492
+      ],
+      "glove": [
+        92.26,
+        5.426883697509766
+      ],
+      "word2vec": [
+        74.12,
+        4.024982452392578
+      ],
+      "fasttext": [
+        83.71,
+        3.4360885620117188
+      ]
+    }
+  },
+  {
+    "sentence1": "Excitement replaced fear until the final moment.",
+    "sentence2": "Energy supplanted dread until the last second.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        82.31,
+        128.81207466125488
+      ],
+      "glove": [
+        80.89,
+        13.643026351928711
+      ],
+      "word2vec": [
+        62.49,
+        1.0590553283691406
+      ],
+      "fasttext": [
+        88.55,
+        0.9837150573730469
+      ]
+    }
+  },
+  {
+    "sentence1": "They wandered into a strange Tiki bar on the edge of the small beach town.",
+    "sentence2": "They meandered into a peculiar Tiki bar on the edge of the little sea shore town.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        94.46,
+        161.89098358154297
+      ],
+      "glove": [
+        87.97,
+        17.010927200317383
+      ],
+      "word2vec": [
+        87.49,
+        7.019758224487305
+      ],
+      "fasttext": [
+        96.13,
+        4.443168640136719
+      ]
+    }
+  },
+  {
+    "sentence1": "Green should have smelled more tranquil, but somehow it just tasted rotten.",
+    "sentence2": "Green ought to have smelled more quiet, yet by one way or another it just tasted spoiled.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        90.18,
+        140.26975631713867
+      ],
+      "glove": [
+        83.8,
+        3.2401084899902344
+      ],
+      "word2vec": [
+        83.63,
+        3.100156784057617
+      ],
+      "fasttext": [
+        87.88,
+        2.3832321166992188
+      ]
+    }
+  },
+  {
+    "sentence1": "The shark-infested South Pine channel was the only way in or out.",
+    "sentence2": "The shark-plagued South Pine channel was the lone path in or out.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        90.77,
+        147.23873138427734
+      ],
+      "glove": [
+        94.84,
+        4.693031311035156
+      ],
+      "word2vec": [
+        85.63,
+        1.5358924865722656
+      ],
+      "fasttext": [
+        95.38,
+        1.531839370727539
+      ]
+    }
+  },
+  {
+    "sentence1": "He was the type of guy who liked Christmas lights on his house in the middle of July.",
+    "sentence2": "He was the sort of fellow who enjoyed Christmas lights on his home in July.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        93.13,
+        127.78806686401367
+      ],
+      "glove": [
+        91.63,
+        0.7150173187255859
+      ],
+      "word2vec": [
+        81.82,
+        5.900144577026367
+      ],
+      "fasttext": [
+        90.96,
+        2.2919178009033203
+      ]
+    }
+  },
+  {
+    "sentence1": "He ended up burning his fingers poking someone else's fire.",
+    "sentence2": "He wound up consuming his fingers jabbing another person's fire.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        76.16,
+        147.10688591003418
+      ],
+      "glove": [
+        92.3,
+        7.328987121582031
+      ],
+      "word2vec": [
+        78.07,
+        2.8219223022460938
+      ],
+      "fasttext": [
+        91.26,
+        2.073049545288086
+      ]
+    }
+  },
+  {
+    "sentence1": "The stranger officiates the meal.",
+    "sentence2": "The outsider directs the supper.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        79.42,
+        113.14892768859863
+      ],
+      "glove": [
+        49.05,
+        15.390157699584961
+      ],
+      "word2vec": [
+        52.22,
+        2.959728240966797
+      ],
+      "fasttext": [
+        75.49,
+        3.5028457641601562
+      ]
+    }
+  },
+  {
+    "sentence1": "The near-death experience brought new ideas to light.",
+    "sentence2": "The brush with death uncovered novel thoughts.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        45.81,
+        125.94413757324219
+      ],
+      "glove": [
+        81.9,
+        1.6040802001953125
+      ],
+      "word2vec": [
+        54.87,
+        0.4820823669433594
+      ],
+      "fasttext": [
+        84.02,
+        0.44536590576171875
+      ]
+    }
+  },
+  {
+    "sentence1": "She let the balloon float up into the air with her hopes and dreams.",
+    "sentence2": "She let the inflatable buoy very high with her deepest desires.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        47.62,
+        146.636962890625
+      ],
+      "glove": [
+        76.82,
+        4.4269561767578125
+      ],
+      "word2vec": [
+        55.24,
+        3.041982650756836
+      ],
+      "fasttext": [
+        81.67,
+        1.5761852264404297
+      ]
+    }
+  },
+  {
+    "sentence1": "Mothers spend months of their lives waiting on their children.",
+    "sentence2": "Moms go through months of their lives looking out for their youngsters.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        84.26,
+        128.80682945251465
+      ],
+      "glove": [
+        92.94,
+        1.2569427490234375
+      ],
+      "word2vec": [
+        81.76,
+        0.5240440368652344
+      ],
+      "fasttext": [
+        90.26,
+        0.6701946258544922
+      ]
+    }
+  },
+  {
+    "sentence1": "The shooter says goodbye to his love.",
+    "sentence2": "The shooter bids farewell to his adoration.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        92.16,
+        112.87808418273926
+      ],
+      "glove": [
+        54.29,
+        2.696990966796875
+      ],
+      "word2vec": [
+        64.55,
+        1.2059211730957031
+      ],
+      "fasttext": [
+        74.14,
+        1.447916030883789
+      ]
+    }
+  },
+  {
+    "sentence1": "She cried diamonds.",
+    "sentence2": "She cried jewels.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        87.28,
+        73.20499420166016
+      ],
+      "glove": [
+        88.15,
+        0.8909702301025391
+      ],
+      "word2vec": [
+        77.84,
+        1.8908977508544922
+      ],
+      "fasttext": [
+        88.09,
+        0.7879734039306641
+      ]
+    }
+  },
+  {
+    "sentence1": "She was too busy always talking about what she wanted to do to actually do any of it.",
+    "sentence2": "She was too occupied continually discussing what she needed to never really do any of it.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        58.28,
+        126.61886215209961
+      ],
+      "glove": [
+        92.57,
+        1.3988018035888672
+      ],
+      "word2vec": [
+        78.08,
+        1.451730728149414
+      ],
+      "fasttext": [
+        93.84,
+        0.3979206085205078
+      ]
+    }
+  },
+  {
+    "sentence1": "The tattered work gloves speak of the many hours of hard labour he endured throughout his life.",
+    "sentence2": "The worn out work gloves talk about the numerous long periods of hard work he suffered for the duration of his life.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        91.87,
+        163.03300857543945
+      ],
+      "glove": [
+        95.53,
+        7.389068603515625
+      ],
+      "word2vec": [
+        83.88,
+        99.16210174560547
+      ],
+      "fasttext": [
+        95.44,
+        1.5158653259277344
+      ]
+    }
+  },
+  {
+    "sentence1": "Lightning Paradise was the local hangout joint where the group usually ended up spending the night.",
+    "sentence2": "Lightning Heaven was the nearby home base joint where the gathering normally wound up going through the evening.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        75.95,
+        159.33489799499512
+      ],
+      "glove": [
+        91.67,
+        2.115964889526367
+      ],
+      "word2vec": [
+        71.8,
+        2.9959678649902344
+      ],
+      "fasttext": [
+        90.69,
+        1.600027084350586
+      ]
+    }
+  },
+  {
+    "sentence1": "We have young kids who often walk into our room at night for various reasons including clowns in the closet.",
+    "sentence2": "We have small children who regularly stroll into our room around evening time for different reasons remembering comedians for the wardrobe.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        87.02,
+        179.534912109375
+      ],
+      "glove": [
+        95.46,
+        2.583026885986328
+      ],
+      "word2vec": [
+        80.51,
+        2.5968551635742188
+      ],
+      "fasttext": [
+        94.4,
+        1.5690326690673828
+      ]
+    }
+  },
+  {
+    "sentence1": "She can live her life however she wants as long as she listens to what I have to say.",
+    "sentence2": "She can carry on with her life anyway she needs as long as she tunes in to what I need to say.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        85.75,
+        129.00018692016602
+      ],
+      "glove": [
+        94.76,
+        0.6759166717529297
+      ],
+      "word2vec": [
+        74.02,
+        1.6701221466064453
+      ],
+      "fasttext": [
+        91.85,
+        0.7822513580322266
+      ]
+    }
+  },
+  {
+    "sentence1": "Black and white cows grazing in a pen.",
+    "sentence2": "Two black and white cows drinking out of a pond.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        75.83,
+        158.2629680633545
+      ],
+      "glove": [
+        89.84,
+        4.234075546264648
+      ],
+      "word2vec": [
+        73.6,
+        0.9570121765136719
+      ],
+      "fasttext": [
+        88.09,
+        0.7560253143310547
+      ]
+    }
+  },
+  {
+    "sentence1": "Three dead in US marathon bomb",
+    "sentence2": "Taliban denies involvement in Boston marathon bombing",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        61.75,
+        116.60313606262207
+      ],
+      "glove": [
+        73.1,
+        5.026102066040039
+      ],
+      "word2vec": [
+        52.29,
+        7.185220718383789
+      ],
+      "fasttext": [
+        73.35,
+        3.9849281311035156
+      ]
+    }
+  },
+  {
+    "sentence1": "Four blue and yellow planes flying over four boats.",
+    "sentence2": "Four blue and yellow planes in flight.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        92.67,
+        136.59119606018066
+      ],
+      "glove": [
+        96.37,
+        1.0981559753417969
+      ],
+      "word2vec": [
+        89.79,
+        0.5600452423095703
+      ],
+      "fasttext": [
+        95.72,
+        0.5087852478027344
+      ]
+    }
+  },
+  {
+    "sentence1": "Red and white bus driving down road.",
+    "sentence2": "A bus drives down a busy road.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        65.03,
+        118.24178695678711
+      ],
+      "glove": [
+        88.28,
+        0.4849433898925781
+      ],
+      "word2vec": [
+        71.53,
+        0.36406517028808594
+      ],
+      "fasttext": [
+        86.62,
+        0.39696693420410156
+      ]
+    }
+  },
+  {
+    "sentence1": "the part of the purpose of the united states plan is to increase pressure on north korea. ",
+    "sentence2": "the united states and the allies of the united states believe iran is pursuing nuclear arms.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        63.26,
+        146.9738483428955
+      ],
+      "glove": [
+        86.95,
+        2.2530555725097656
+      ],
+      "word2vec": [
+        65.09,
+        7.577657699584961
+      ],
+      "fasttext": [
+        82.89,
+        2.029895782470703
+      ]
+    }
+  },
+  {
+    "sentence1": "put up with something unpleasant",
+    "sentence2": "put up with something or somebody unpleasant.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        97.53,
+        99.5941162109375
+      ],
+      "glove": [
+        97.48,
+        1.7080307006835938
+      ],
+      "word2vec": [
+        93.67,
+        0.5702972412109375
+      ],
+      "fasttext": [
+        97.57,
+        0.46181678771972656
+      ]
+    }
+  },
+  {
+    "sentence1": "north korea has claimed nuclear ambitions and currently north korea is reported to have missiles aimed at japan. ",
+    "sentence2": "north korea has boasted of nuclear ambitions and north korea is now reported to have missiles trained on",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        85.52,
+        164.19291496276855
+      ],
+      "glove": [
+        96.92,
+        10.62917709350586
+      ],
+      "word2vec": [
+        92.18,
+        19.512176513671875
+      ],
+      "fasttext": [
+        97.11,
+        4.55784797668457
+      ]
+    }
+  },
+  {
+    "sentence1": "Being against nukes does not mean \"not wanting to use nukes\".",
+    "sentence2": "Being against using nukes means \"not wanting to use nukes\".",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        98.26,
+        148.69308471679688
+      ],
+      "glove": [
+        98.49,
+        3.9048194885253906
+      ],
+      "word2vec": [
+        96.45,
+        1.9788742065429688
+      ],
+      "fasttext": [
+        98.04,
+        1.2941360473632812
+      ]
+    }
+  },
+  {
+    "sentence1": "recording tracks of music made on some medium",
+    "sentence2": "a trench resembling a furrow that was made by erosion or excavation.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        44.16,
+        127.91299819946289
+      ],
+      "glove": [
+        33.94,
+        17.858028411865234
+      ],
+      "word2vec": [
+        18.87,
+        2.7539730072021484
+      ],
+      "fasttext": [
+        68.58,
+        1.5549659729003906
+      ]
+    }
+  },
+  {
+    "sentence1": "It is an excellent indicator of climate change.",
+    "sentence2": "I think we all agree on the nature of the change.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        63.75,
+        95.69406509399414
+      ],
+      "glove": [
+        79.81,
+        1.417398452758789
+      ],
+      "word2vec": [
+        44.78,
+        0.3650188446044922
+      ],
+      "fasttext": [
+        75.28,
+        0.41413307189941406
+      ]
+    }
+  },
+  {
+    "sentence1": "a cause or source of duress, worry",
+    "sentence2": "difficulty that causes worry or emotional tension.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        85.41,
+        114.79616165161133
+      ],
+      "glove": [
+        76.05,
+        7.049798965454102
+      ],
+      "word2vec": [
+        64.4,
+        1.1968612670898438
+      ],
+      "fasttext": [
+        86.24,
+        0.9589195251464844
+      ]
+    }
+  },
+  {
+    "sentence1": "A young boy laying on a sofa with a dog.",
+    "sentence2": "A small boy laying on a sofa with a dog.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        99.4,
+        114.76516723632812
+      ],
+      "glove": [
+        96.96,
+        0.6227493286132812
+      ],
+      "word2vec": [
+        94.41,
+        0.8509159088134766
+      ],
+      "fasttext": [
+        97.56,
+        0.8230209350585938
+      ]
+    }
+  },
+  {
+    "sentence1": "give a detailed account of",
+    "sentence2": "narrate or give a detailed account of.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        93.45,
+        128.33786010742188
+      ],
+      "glove": [
+        92.84,
+        2.958059310913086
+      ],
+      "word2vec": [
+        88.3,
+        30.67612648010254
+      ],
+      "fasttext": [
+        91.28,
+        1.0259151458740234
+      ]
+    }
+  },
+  {
+    "sentence1": "Out of touch and completely untrustworthy, however, wouldn't.",
+    "sentence2": "Out of touch and untrustworthy?",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        84.42,
+        130.19490242004395
+      ],
+      "glove": [
+        75.63,
+        5.978107452392578
+      ],
+      "word2vec": [
+        68.37,
+        3.5881996154785156
+      ],
+      "fasttext": [
+        50.78,
+        0.9920597076416016
+      ]
+    }
+  },
+  {
+    "sentence1": "Pakistan condemns US drone strike in Shawal Area",
+    "sentence2": "Pakistan condemns US drone strike in Miranshah",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        98.8,
+        144.1631317138672
+      ],
+      "glove": [
+        95.07,
+        23.780107498168945
+      ],
+      "word2vec": [
+        97.67,
+        66.19024276733398
+      ],
+      "fasttext": [
+        97.52,
+        23.357868194580078
+      ]
+    }
+  },
+  {
+    "sentence1": "A group of people sitting on a small sofa next to a kitchen.",
+    "sentence2": "A group of people standing near a small child sitting on a horse.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        25.91,
+        130.4469108581543
+      ],
+      "glove": [
+        94.15,
+        0.6678104400634766
+      ],
+      "word2vec": [
+        68.65,
+        0.640869140625
+      ],
+      "fasttext": [
+        88.74,
+        0.6856918334960938
+      ]
+    }
+  },
+  {
+    "sentence1": "Originally Posted by muslim girl ooops sorry!",
+    "sentence2": "Originally Posted by muslim girl its not a complete impossibility.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        82.08,
+        129.9450397491455
+      ],
+      "glove": [
+        88.72,
+        4.127025604248047
+      ],
+      "word2vec": [
+        76.68,
+        7.812261581420898
+      ],
+      "fasttext": [
+        89.61,
+        2.6929378509521484
+      ]
+    }
+  },
+  {
+    "sentence1": "Topless Women Protest Against Berlusconi As He Votes In Election",
+    "sentence2": "Bulgaria President Backs Protesters, Opposes Snap Elections",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        60.69,
+        162.22906112670898
+      ],
+      "glove": [
+        86.22,
+        3.100156784057617
+      ],
+      "word2vec": [
+        59.08,
+        62.911033630371094
+      ],
+      "fasttext": [
+        78.44,
+        8.039712905883789
+      ]
+    }
+  },
+  {
+    "sentence1": "Change the meaning of (someone's) words with intent to deceive.",
+    "sentence2": "make a copy of with the intent to deceive.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        81.48,
+        148.91481399536133
+      ],
+      "glove": [
+        87.37,
+        2.7208328247070312
+      ],
+      "word2vec": [
+        71.42,
+        0.8361339569091797
+      ],
+      "fasttext": [
+        73.87,
+        0.9169578552246094
+      ]
+    }
+  },
+  {
+    "sentence1": "saudi arabia is an absolute monarchy that has taken steps towards reform. ",
+    "sentence2": "saudi arabia is an absolute monarchy and has a consultative council appointed by the government.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        79.18,
+        129.81390953063965
+      ],
+      "glove": [
+        82.37,
+        11.47007942199707
+      ],
+      "word2vec": [
+        70.92,
+        50.17495155334473
+      ],
+      "fasttext": [
+        85.71,
+        6.49714469909668
+      ]
+    }
+  },
+  {
+    "sentence1": "Zimmerman stopped for speeding in Texas, released with warning",
+    "sentence2": "Zimmerman pulled over in Texas for speeding, given warning",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        82.35,
+        108.98113250732422
+      ],
+      "glove": [
+        96.06,
+        4.268169403076172
+      ],
+      "word2vec": [
+        86.66,
+        65.65308570861816
+      ],
+      "fasttext": [
+        94.79,
+        5.580902099609375
+      ]
+    }
+  },
+  {
+    "sentence1": "A black and white photo of a love seat.",
+    "sentence2": "Black and white photo of couch with purse at one end.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        77.62,
+        127.81071662902832
+      ],
+      "glove": [
+        95.28,
+        0.5629062652587891
+      ],
+      "word2vec": [
+        77.0,
+        0.5779266357421875
+      ],
+      "fasttext": [
+        89.05,
+        0.6079673767089844
+      ]
+    }
+  },
+  {
+    "sentence1": "the act of preserving or protecting something",
+    "sentence2": "the activity of supplying or providing something.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        76.28,
+        96.14706039428711
+      ],
+      "glove": [
+        80.36,
+        3.565073013305664
+      ],
+      "word2vec": [
+        47.53,
+        0.49304962158203125
+      ],
+      "fasttext": [
+        81.85,
+        0.4336833953857422
+      ]
+    }
+  },
+  {
+    "sentence1": "Red double decker bus taking on passengers.",
+    "sentence2": "A red double decker bus driving down a street.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        90.07,
+        108.78205299377441
+      ],
+      "glove": [
+        93.78,
+        1.5943050384521484
+      ],
+      "word2vec": [
+        86.59,
+        5.7048797607421875
+      ],
+      "fasttext": [
+        96.1,
+        3.690004348754883
+      ]
+    }
+  },
+  {
+    "sentence1": "Two brown horses standing in grassy field.",
+    "sentence2": "Brown horse standing in middle of grassy field.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        97.15,
+        108.76607894897461
+      ],
+      "glove": [
+        96.4,
+        6.353139877319336
+      ],
+      "word2vec": [
+        93.56,
+        1.1467933654785156
+      ],
+      "fasttext": [
+        94.22,
+        1.1861324310302734
+      ]
+    }
+  },
+  {
+    "sentence1": "A black and white photo of a glass bottle of Coca Cola.",
+    "sentence2": "This is a black and white picture of a short squat Coca-cola bottle.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        84.18,
+        129.99987602233887
+      ],
+      "glove": [
+        94.75,
+        1.0769367218017578
+      ],
+      "word2vec": [
+        90.12,
+        2.9659271240234375
+      ],
+      "fasttext": [
+        95.42,
+        2.3889541625976562
+      ]
+    }
+  },
+  {
+    "sentence1": "A man and woman sit at a table in a restaurant.",
+    "sentence2": "Four women and two men sit at a long table in a restaurant.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        90.77,
+        130.9812068939209
+      ],
+      "glove": [
+        91.6,
+        0.5221366882324219
+      ],
+      "word2vec": [
+        75.5,
+        0.34999847412109375
+      ],
+      "fasttext": [
+        85.34,
+        0.3840923309326172
+      ]
+    }
+  },
+  {
+    "sentence1": "the activity of pretending to be someone or something else",
+    "sentence2": "the act of liberating someone or something.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        70.37,
+        108.63590240478516
+      ],
+      "glove": [
+        92.69,
+        1.9311904907226562
+      ],
+      "word2vec": [
+        74.54,
+        0.7343292236328125
+      ],
+      "fasttext": [
+        83.46,
+        0.5877017974853516
+      ]
+    }
+  },
+  {
+    "sentence1": "Three die after car crash at Tian'anmen",
+    "sentence2": "Three Killed In Crash At Tiananmen Square",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        75.39,
+        127.69484519958496
+      ],
+      "glove": [
+        78.43,
+        18.841028213500977
+      ],
+      "word2vec": [
+        72.13,
+        67.60120391845703
+      ],
+      "fasttext": [
+        84.0,
+        20.802974700927734
+      ]
+    }
+  },
+  {
+    "sentence1": "Chinese general's son gets 10 years jail for rape",
+    "sentence2": "Son of Chinese army singers gets 10 years' jail for gang rape",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        95.1,
+        148.79488945007324
+      ],
+      "glove": [
+        94.55,
+        0.9250640869140625
+      ],
+      "word2vec": [
+        84.69,
+        2.6769638061523438
+      ],
+      "fasttext": [
+        87.31,
+        0.9589195251464844
+      ]
+    }
+  },
+  {
+    "sentence1": "Yes, it's about dilution.",
+    "sentence2": "Er, that's not how dilution works.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        87.6,
+        108.34288597106934
+      ],
+      "glove": [
+        93.2,
+        12.274742126464844
+      ],
+      "word2vec": [
+        85.7,
+        0.9670257568359375
+      ],
+      "fasttext": [
+        85.44,
+        0.8480548858642578
+      ]
+    }
+  },
+  {
+    "sentence1": "the deal has been in process for several years. ",
+    "sentence2": "the iaea has been investigating iran's nuclear activities for 4 years.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        38.95,
+        131.71625137329102
+      ],
+      "glove": [
+        73.63,
+        3.7539005279541016
+      ],
+      "word2vec": [
+        26.85,
+        18.738985061645508
+      ],
+      "fasttext": [
+        43.92,
+        10.507822036743164
+      ]
+    }
+  },
+  {
+    "sentence1": "Gunmen Kill 11 Foreign Tourists in Pakistan",
+    "sentence2": "Gunmen kill 11 foreign climbers in Pakistan",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        95.69,
+        108.65211486816406
+      ],
+      "glove": [
+        95.66,
+        4.493951797485352
+      ],
+      "word2vec": [
+        88.59,
+        4.157781600952148
+      ],
+      "fasttext": [
+        96.26,
+        1.7781257629394531
+      ]
+    }
+  },
+  {
+    "sentence1": "Enclose in a protective covering.",
+    "sentence2": "cover with a protective sheathing.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        91.19,
+        115.91291427612305
+      ],
+      "glove": [
+        74.52,
+        22.28093147277832
+      ],
+      "word2vec": [
+        74.99,
+        3.0908584594726562
+      ],
+      "fasttext": [
+        86.81,
+        1.909017562866211
+      ]
+    }
+  },
+  {
+    "sentence1": "to make a great mental or physical effort",
+    "sentence2": "make a great effort at a mental or physical task.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        97.98,
+        109.2081069946289
+      ],
+      "glove": [
+        98.61,
+        0.6778240203857422
+      ],
+      "word2vec": [
+        94.74,
+        0.36978721618652344
+      ],
+      "fasttext": [
+        97.37,
+        0.3821849822998047
+      ]
+    }
+  },
+  {
+    "sentence1": "P.G. police seeking driver in crash that killed child",
+    "sentence2": "Police seek gunmen in New Orleans Mother's Day parade shooting",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        64.53,
+        143.09191703796387
+      ],
+      "glove": [
+        88.06,
+        1.9741058349609375
+      ],
+      "word2vec": [
+        56.47,
+        5.523920059204102
+      ],
+      "fasttext": [
+        58.18,
+        4.528999328613281
+      ]
+    }
+  },
+  {
+    "sentence1": "Two U.S. soldiers killed in \"insider\" attack in Afghanistan",
+    "sentence2": "8 soldiers killed in bomb attack in NW Pakistan",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        83.28,
+        129.80127334594727
+      ],
+      "glove": [
+        91.26,
+        1.2049674987792969
+      ],
+      "word2vec": [
+        81.97,
+        9.681940078735352
+      ],
+      "fasttext": [
+        60.57,
+        3.2749176025390625
+      ]
+    }
+  },
+  {
+    "sentence1": "endure or experience a painful event",
+    "sentence2": "undergo (as of injuries and illnesses).",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        76.63,
+        96.38190269470215
+      ],
+      "glove": [
+        62.56,
+        2.87628173828125
+      ],
+      "word2vec": [
+        38.59,
+        0.5640983581542969
+      ],
+      "fasttext": [
+        70.79,
+        0.6797313690185547
+      ]
+    }
+  },
+  {
+    "sentence1": "GRATE ON: gnaw into emotionally; make resentful or angry.",
+    "sentence2": "gnaw into; make resentful or angry.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        93.22,
+        163.5589599609375
+      ],
+      "glove": [
+        93.62,
+        11.385202407836914
+      ],
+      "word2vec": [
+        89.28,
+        4.101991653442383
+      ],
+      "fasttext": [
+        93.6,
+        4.719972610473633
+      ]
+    }
+  },
+  {
+    "sentence1": "the back of a stop sign with many stickers on it.",
+    "sentence2": "The back of the stop sign is adorned with stickers.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        87.66,
+        128.29089164733887
+      ],
+      "glove": [
+        93.26,
+        4.20689582824707
+      ],
+      "word2vec": [
+        85.49,
+        0.8211135864257812
+      ],
+      "fasttext": [
+        93.14,
+        0.9608268737792969
+      ]
+    }
+  },
+  {
+    "sentence1": "A very retro living room with a television in it.",
+    "sentence2": "A grey cat lying on a wooden table.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        46.33,
+        114.65001106262207
+      ],
+      "glove": [
+        79.32,
+        0.8862018585205078
+      ],
+      "word2vec": [
+        38.59,
+        30.803918838500977
+      ],
+      "fasttext": [
+        70.2,
+        0.7150173187255859
+      ]
+    }
+  },
+  {
+    "sentence1": "A black and white cow standing in hay looks back at the camera.",
+    "sentence2": "There is a black and white sheep standing on the grass.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        76.64,
+        130.62286376953125
+      ],
+      "glove": [
+        86.51,
+        0.7359981536865234
+      ],
+      "word2vec": [
+        80.04,
+        0.7498264312744141
+      ],
+      "fasttext": [
+        89.11,
+        0.7038116455078125
+      ]
+    }
+  },
+  {
+    "sentence1": "Four U.S. Air Force helicopter crew members killed in UK crash",
+    "sentence2": "US Air Force helicopter crew killed in British crash",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        96.72,
+        160.9630584716797
+      ],
+      "glove": [
+        96.26,
+        1.155853271484375
+      ],
+      "word2vec": [
+        89.7,
+        2.483844757080078
+      ],
+      "fasttext": [
+        71.5,
+        0.9589195251464844
+      ]
+    }
+  },
+  {
+    "sentence1": "the russian government strongly opposes u.s. plans to install antimissile defenses in europe and dismisses u.s. assertions that the interceptors are needed to defend against threats from iran. ",
+    "sentence2": "after talks at nato headquarters baluyevsky repeated russia's opposition to u.s. plans to install antimissile defenses in europe and dismissed u.s. assertions that the interceptors were needed to defend against potential threats from iran.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        89.44,
+        335.68835258483887
+      ],
+      "glove": [
+        97.5,
+        75.6838321685791
+      ],
+      "word2vec": [
+        94.26,
+        54.96501922607422
+      ],
+      "fasttext": [
+        98.27,
+        20.541906356811523
+      ]
+    }
+  },
+  {
+    "sentence1": "We all believe that we are getting what we expect.",
+    "sentence2": "Most times, % of the time, we are getting what we expect.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        86.17,
+        95.81112861633301
+      ],
+      "glove": [
+        93.54,
+        0.2639293670654297
+      ],
+      "word2vec": [
+        76.82,
+        0.1862049102783203
+      ],
+      "fasttext": [
+        82.58,
+        0.2110004425048828
+      ]
+    }
+  },
+  {
+    "sentence1": "So YES, we DO read the bible to learn about Christianity.",
+    "sentence2": "personally i would read the bible to learn about christianity.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        94.12,
+        108.62493515014648
+      ],
+      "glove": [
+        96.9,
+        1.2140274047851562
+      ],
+      "word2vec": [
+        92.41,
+        7.146120071411133
+      ],
+      "fasttext": [
+        92.84,
+        1.2810230255126953
+      ]
+    }
+  },
+  {
+    "sentence1": "Red double decker bus taking on passengers.",
+    "sentence2": "Red double decker bus with hood up.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        88.07,
+        108.51216316223145
+      ],
+      "glove": [
+        92.03,
+        1.561880111694336
+      ],
+      "word2vec": [
+        84.32,
+        5.877256393432617
+      ],
+      "fasttext": [
+        92.26,
+        3.7620067596435547
+      ]
+    }
+  },
+  {
+    "sentence1": "They are NOT as sovereign as they were before.",
+    "sentence2": "to repeat: They are NOT as sovereign as they were before.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        86.67,
+        93.82295608520508
+      ],
+      "glove": [
+        94.76,
+        1.7580986022949219
+      ],
+      "word2vec": [
+        82.46,
+        0.4620552062988281
+      ],
+      "fasttext": [
+        89.38,
+        0.34499168395996094
+      ]
+    }
+  },
+  {
+    "sentence1": "government initiatives to disarm have been ineffective. ",
+    "sentence2": "governance institutions have been ineffective for a long time in somalia.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        61.19,
+        108.48617553710938
+      ],
+      "glove": [
+        71.91,
+        7.154941558837891
+      ],
+      "word2vec": [
+        61.36,
+        6.843328475952148
+      ],
+      "fasttext": [
+        68.83,
+        2.2509098052978516
+      ]
+    }
+  },
+  {
+    "sentence1": "an inherent aptitude or talent",
+    "sentence2": "an aptitude that may be developed.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        76.82,
+        95.92008590698242
+      ],
+      "glove": [
+        69.45,
+        6.525993347167969
+      ],
+      "word2vec": [
+        67.79,
+        1.135110855102539
+      ],
+      "fasttext": [
+        63.45,
+        0.9741783142089844
+      ]
+    }
+  },
+  {
+    "sentence1": "He lives in London",
+    "sentence2": "He does not live in London",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        89.51,
+        218.5800075531006
+      ],
+      "glove": [
+        85.83,
+        0.6773471832275391
+      ],
+      "word2vec": [
+        83.27,
+        13.711214065551758
+      ],
+      "fasttext": [
+        87.91,
+        0.8428096771240234
+      ]
+    }
+  },
+  {
+    "sentence1": "I can see you",
+    "sentence2": "I cannot see you",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        44.06,
+        78.49812507629395
+      ],
+      "glove": [
+        92.15,
+        0.22912025451660156
+      ],
+      "word2vec": [
+        60.39,
+        12.796878814697266
+      ],
+      "fasttext": [
+        89.92,
+        0.2048015594482422
+      ]
+    }
+  },
+  {
+    "sentence1": "I like those photos",
+    "sentence2": "I don't like any of those photos",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        34.57,
+        100.16703605651855
+      ],
+      "glove": [
+        89.19,
+        0.28014183044433594
+      ],
+      "word2vec": [
+        65.18,
+        0.5161762237548828
+      ],
+      "fasttext": [
+        45.16,
+        0.24199485778808594
+      ]
+    }
+  },
+  {
+    "sentence1": "The man lost all his money",
+    "sentence2": "The man did not lose all his money",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        96.05,
+        93.46413612365723
+      ],
+      "glove": [
+        96.44,
+        0.26988983154296875
+      ],
+      "word2vec": [
+        90.85,
+        0.2238750457763672
+      ],
+      "fasttext": [
+        95.01,
+        0.21195411682128906
+      ]
+    }
+  },
+  {
+    "sentence1": "I should eat more chocolate",
+    "sentence2": "I shouldn't eat more chocolate.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        39.7,
+        95.16000747680664
+      ],
+      "glove": [
+        83.69,
+        5.295753479003906
+      ],
+      "word2vec": [
+        76.92,
+        14.714956283569336
+      ],
+      "fasttext": [
+        59.77,
+        0.431060791015625
+      ]
+    }
+  },
+  {
+    "sentence1": "You ought to have gone home",
+    "sentence2": "You ought not to have gone home.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        100.0,
+        100.89397430419922
+      ],
+      "glove": [
+        100.0,
+        0.9579658508300781
+      ],
+      "word2vec": [
+        100.0,
+        0.3497600555419922
+      ],
+      "fasttext": [
+        100.0,
+        0.3771781921386719
+      ]
+    }
+  },
+  {
+    "sentence1": "I may be able to finish in time",
+    "sentence2": "I may not be able to finish in time.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        100.0,
+        97.94020652770996
+      ],
+      "glove": [
+        100.0,
+        0.32901763916015625
+      ],
+      "word2vec": [
+        100.0,
+        0.2300739288330078
+      ],
+      "fasttext": [
+        100.0,
+        0.2701282501220703
+      ]
+    }
+  },
+  {
+    "sentence1": "He plays tennis",
+    "sentence2": "He never plays tennis.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        31.77,
+        97.01013565063477
+      ],
+      "glove": [
+        92.07,
+        0.45800209045410156
+      ],
+      "word2vec": [
+        91.17,
+        0.30112266540527344
+      ],
+      "fasttext": [
+        91.83,
+        0.308990478515625
+      ]
+    }
+  },
+  {
+    "sentence1": "I saw the Queen yesterday",
+    "sentence2": "I never saw the Queen yesterday.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        62.99,
+        95.93391418457031
+      ],
+      "glove": [
+        97.53,
+        0.3147125244140625
+      ],
+      "word2vec": [
+        92.35,
+        0.4448890686035156
+      ],
+      "fasttext": [
+        96.04,
+        0.3750324249267578
+      ]
+    }
+  },
+  {
+    "sentence1": "I've been to London .",
+    "sentence2": "I' ve never been to London.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        40.84,
+        100.51488876342773
+      ],
+      "glove": [
+        85.86,
+        0.2601146697998047
+      ],
+      "word2vec": [
+        92.27,
+        3.483295440673828
+      ],
+      "fasttext": [
+        88.83,
+        0.7541179656982422
+      ]
+    }
+  },
+  {
+    "sentence1": "You should eat a lot of chocolate",
+    "sentence2": "You should never eat a lot of chocolate.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        42.07,
+        96.01521492004395
+      ],
+      "glove": [
+        97.58,
+        0.2720355987548828
+      ],
+      "word2vec": [
+        95.44,
+        0.3731250762939453
+      ],
+      "fasttext": [
+        96.75,
+        0.4978179931640625
+      ]
+    }
+  },
+  {
+    "sentence1": "You ought to have done that",
+    "sentence2": "You ought never to have done that.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        44.33,
+        101.90486907958984
+      ],
+      "glove": [
+        91.17,
+        0.9310245513916016
+      ],
+      "word2vec": [
+        87.97,
+        0.3330707550048828
+      ],
+      "fasttext": [
+        93.58,
+        0.31685829162597656
+      ]
+    }
+  },
+  {
+    "sentence1": "I may be able to finish this.",
+    "sentence2": "I may never be able to finish this.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        59.97,
+        123.75187873840332
+      ],
+      "glove": [
+        98.97,
+        0.3399848937988281
+      ],
+      "word2vec": [
+        94.94,
+        0.21195411682128906
+      ],
+      "fasttext": [
+        98.55,
+        0.27489662170410156
+      ]
+    }
+  },
+  {
+    "sentence1": "Trees grow on the moon",
+    "sentence2": "No trees grow on the moon.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        100.0,
+        98.54388236999512
+      ],
+      "glove": [
+        100.0,
+        0.4901885986328125
+      ],
+      "word2vec": [
+        100.0,
+        0.4031658172607422
+      ],
+      "fasttext": [
+        100.0,
+        0.4010200500488281
+      ]
+    }
+  },
+  {
+    "sentence1": "I can see someone",
+    "sentence2": "I cannot see anyone",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        30.64,
+        92.48995780944824
+      ],
+      "glove": [
+        93.97,
+        0.22792816162109375
+      ],
+      "word2vec": [
+        69.87,
+        2.627134323120117
+      ],
+      "fasttext": [
+        90.85,
+        0.18787384033203125
+      ]
+    }
+  },
+  {
+    "sentence1": "The man lost time",
+    "sentence2": "The man lost no time ",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        100.0,
+        97.52583503723145
+      ],
+      "glove": [
+        100.0,
+        0.2040863037109375
+      ],
+      "word2vec": [
+        100.0,
+        0.186920166015625
+      ],
+      "fasttext": [
+        100.0,
+        0.16188621520996094
+      ]
+    }
+  },
+  {
+    "sentence1": "I should eat more chocolate",
+    "sentence2": "I should eat no more chocolate.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        100.0,
+        74.0821361541748
+      ],
+      "glove": [
+        100.0,
+        0.21505355834960938
+      ],
+      "word2vec": [
+        100.0,
+        0.3390312194824219
+      ],
+      "fasttext": [
+        100.0,
+        0.3311634063720703
+      ]
+    }
+  },
+  {
+    "sentence1": "There's something in that box",
+    "sentence2": "There's nothing in that box.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        35.22,
+        106.1248779296875
+      ],
+      "glove": [
+        98.88,
+        0.2791881561279297
+      ],
+      "word2vec": [
+        94.43,
+        0.2644062042236328
+      ],
+      "fasttext": [
+        98.84,
+        0.2219676971435547
+      ]
+    }
+  },
+  {
+    "sentence1": "The riders were able to finish the race",
+    "sentence2": "No riders were able to finish the race.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        100.0,
+        95.63970565795898
+      ],
+      "glove": [
+        100.0,
+        1.032114028930664
+      ],
+      "word2vec": [
+        100.0,
+        0.3421306610107422
+      ],
+      "fasttext": [
+        100.0,
+        0.5059242248535156
+      ]
+    }
+  },
+  {
+    "sentence1": "The riders were able to finish the race",
+    "sentence2": "None of the riders were able to finish the race.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        40.66,
+        116.29700660705566
+      ],
+      "glove": [
+        97.86,
+        1.1088848114013672
+      ],
+      "word2vec": [
+        96.21,
+        0.3631114959716797
+      ],
+      "fasttext": [
+        97.01,
+        0.6527900695800781
+      ]
+    }
+  },
+  {
+    "sentence1": "Your shoes are clean",
+    "sentence2": "None of your shoes are clean.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        42.81,
+        96.6799259185791
+      ],
+      "glove": [
+        95.12,
+        0.3368854522705078
+      ],
+      "word2vec": [
+        90.6,
+        0.32711029052734375
+      ],
+      "fasttext": [
+        91.49,
+        0.3230571746826172
+      ]
+    }
+  },
+  {
+    "sentence1": "I like those photos",
+    "sentence2": "I like none of those photos.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        31.79,
+        92.36693382263184
+      ],
+      "glove": [
+        96.04,
+        0.2448558807373047
+      ],
+      "word2vec": [
+        89.78,
+        0.22602081298828125
+      ],
+      "fasttext": [
+        91.68,
+        0.209808349609375
+      ]
+    }
+  },
+  {
+    "sentence1": "Did you eat some chocolates?",
+    "sentence2": "Did you eat none of the chocolates?",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        51.83,
+        101.90486907958984
+      ],
+      "glove": [
+        94.82,
+        0.5350112915039062
+      ],
+      "word2vec": [
+        92.33,
+        0.7760524749755859
+      ],
+      "fasttext": [
+        91.57,
+        0.8077621459960938
+      ]
+    }
+  },
+  {
+    "sentence1": "You can have some whisky",
+    "sentence2": "You can do without whisky.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        54.06,
+        74.57900047302246
+      ],
+      "glove": [
+        73.7,
+        0.6451606750488281
+      ],
+      "word2vec": [
+        NaN,
+        257.7650547027588
+      ],
+      "fasttext": [
+        86.31,
+        0.5748271942138672
+      ]
+    }
+  },
+  {
+    "sentence1": "He's walking with a stick",
+    "sentence2": "He's walking without a stick ",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        56.07,
+        116.47582054138184
+      ],
+      "glove": [
+        98.28,
+        0.3380775451660156
+      ],
+      "word2vec": [
+        93.89,
+        0.3612041473388672
+      ],
+      "fasttext": [
+        98.05,
+        0.3142356872558594
+      ]
+    }
+  },
+  {
+    "sentence1": "He did it for a good reason",
+    "sentence2": "He did it for no reason at all. ",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        76.82,
+        78.34911346435547
+      ],
+      "glove": [
+        93.96,
+        0.23484230041503906
+      ],
+      "word2vec": [
+        78.21,
+        0.19669532775878906
+      ],
+      "fasttext": [
+        84.12,
+        0.15997886657714844
+      ]
+    }
+  },
+  {
+    "sentence1": "I want you to do it with me",
+    "sentence2": "I want you to do it without me.",
+    "similarity_matrix": {
+      "similarity": [
+        "cosine",
+        "computation_time"
+      ],
+      "bert": [
+        60.33,
+        99.65205192565918
+      ],
+      "glove": [
+        90.38,
+        0.20813941955566406
+      ],
+      "word2vec": [
+        75.26,
+        0.1690387725830078
+      ],
+      "fasttext": [
+        79.69,
+        0.15926361083984375
+      ]
+    }
+  }
+]
